@@ -1,3 +1,0 @@
-* text=auto
-products/*.txt text eol=lf
-scripts/*.js text eol=lf

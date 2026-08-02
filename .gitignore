@@ -1,7 +1,0 @@
-# 내부 관리 파일 — 로컬 전용 (public 리포에 올리지 않음)
-/PROJECT.md
-/AGENTS.md
-/CLAUDE.md
-/docs/worklog.md
-
-node_modules/
